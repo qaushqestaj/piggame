@@ -5,4 +5,4 @@ This game is can be played by two users. The game is about rolling dice. When th
 There is an image that shows all game functions.
 
 
-Languages used: HTML, CSS and JavaScript.
+Languages used: HTML, CSS, and JavaScript.
